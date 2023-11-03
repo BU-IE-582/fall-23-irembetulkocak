@@ -1,3 +1,3 @@
 # Welcome to My GitHub Pages
-## [Jupyter Notebook Example HTML](DataMining-HW1-Koçak.html)
-## [python code](https://github.com/BU-IE-582/fall-23-irembetulkocak/blob/main/DataMining-HW1-Koçak.ipynb)
+## [Jupyter Notebook Example HTML](DataMining-HW1-Kocak.html)
+## [python code](https://github.com/BU-IE-582/fall-23-irembetulkocak/blob/main/DataMining-HW1-Kocak.ipynb)

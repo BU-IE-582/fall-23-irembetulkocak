@@ -6,6 +6,7 @@
 
 # Homework 3
 ## [HTML](DataminingHW3.html)
+## [python code](DataminingHW3.py)
 
 
 # Project 
